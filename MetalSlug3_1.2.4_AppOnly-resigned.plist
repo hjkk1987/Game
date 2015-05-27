@@ -19,13 +19,13 @@
 				<key>bundle-identifier</key>
 				<string>com.ygj.new</string>
 				<key>bundle-version</key>
-				<string>1.2.4</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>一刀流</string>
+				<string>合金弹头</string>
 				<key>title</key>
-				<string>一刀流</string>
+				<string>合金弹头</string>
 			</dict>
 		</dict>
 	</array>
